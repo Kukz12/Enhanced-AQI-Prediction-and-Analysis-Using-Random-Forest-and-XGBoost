@@ -1,0 +1,2 @@
+# Enhanced-AQI-Prediction-and-Analysis-Using-Random-Forest-and-XGBoost
+This project analyzes air quality data to predict AQI (Air Quality Index) using machine learning. It features binary and multi-class classification, engineered features, and advanced hyperparameter tuning with Random Forest and XGBoost models. The repository emphasizes feature importance, model evaluation, and visualization for actionable insights.
